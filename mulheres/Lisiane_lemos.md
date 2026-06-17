@@ -7,11 +7,10 @@
 Lisiane Lemos é uma executiva de tecnologia, palestrante e gestora pública nascida em Pelotas (RS) no ano de 1989. Formada em Direito pela UFPel, construiu carreira em empresas como Microsoft e Google, tornando-se referência nacional em diversidade, inclusão e inovação no setor da tecnologia. 
 
 💫 Trajetória profissional:
-
-- Formação: Bacharel em Direito pela Universidade Federal de Pelotas. Posteriormente cursou MBA em Gestão de TI, MBA Executivo, pós-MBA em Governança Corporativa e formação executiva internacional
   
 🟡 Antes de 2015:
-Formou-se em Direito pela UFPel.
+Formou-se em Direito pela UFPel e posteriormente cursou MBA em Gestão de TI, MBA Executivo, pós-MBA em Governança Corporativa e formação executiva internacional. 
+
 Participou de projetos de liderança e intercâmbio internacional pela AIESEC, chegando a atuar em Moçambique.
 
 🟡 2016–2020:
