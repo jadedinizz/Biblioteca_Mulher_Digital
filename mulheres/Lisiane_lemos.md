@@ -3,7 +3,6 @@
 
 <img src="../imagens/lisiane_lemos.png" width="500" alt="Lisiane Lemos">
 
-
 ## Parte 1 - Biografia:
 
 📌 Quem é Lisiane Lemos?
