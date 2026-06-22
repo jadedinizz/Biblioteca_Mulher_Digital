@@ -1,5 +1,5 @@
 # Nina da Hora
-## @ninadhora
+## "Não tem como criar conteúdo se não fizer em coletivo. Um ciclo que se fecha em uma pessoa só, só impacta ela mesma. ‘Favela venceu’ para uma pessoa só, não é assim." - @ninadhora
 
 ![Nina da Hora sorrindo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkTRcdCXZtWlGT2rzFBxxupoQHnouiE9XJoQ76YxpXIhrjiFoi2s4SZ9REQPkdgVx5FZmLuy846Ul6UZVZV3gnNCorPpoISifzcPPeQ&s=10)
 
